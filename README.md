@@ -1,8 +1,17 @@
 # text_classification_of_based_on_different_feature
-工具：python2.7+pycharm
+python开发工具：pycharm+Anaconda2
 
-仓库中包含了如下特征提取方式的文本分类方法：one-hot特征提取、词的频数、词的频率、词向量、文档向量
+代码库中的文本分类使用的特征提取方式：
+
+1、词的one-hot独热编码
+
+2、词的频数(tc)
+
+3、词的频率(tf)
+
+4、word2vec词向量
+
+5、doc2vec文档向量
 
 特征工程方法：卡方统计量
 
-使用的算法模型：randomforest

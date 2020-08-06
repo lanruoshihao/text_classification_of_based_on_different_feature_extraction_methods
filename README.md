@@ -1,7 +1,7 @@
-# text_classification_of_based_on_different_feature
+# text_classification_of_based_on_different_feature_extraction
 python开发工具：pycharm+Anaconda2
 
-代码库中的文本分类使用的特征提取方式：
+文本分类使用的特征提取方式：
 
 1、词的one-hot独热编码
 
